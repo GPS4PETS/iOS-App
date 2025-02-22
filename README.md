@@ -1,5 +1,5 @@
 # GPS4PETS for iOS
-based on [Traccar Manager for Android](https://www.traccar.org/manager)
+based on [Traccar Manager for iOS](https://www.traccar.org/manager)
 
 ## Overview
 
