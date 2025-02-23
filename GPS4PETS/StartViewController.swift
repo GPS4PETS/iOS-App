@@ -57,6 +57,7 @@ class StartViewController: UIViewController, UITextFieldDelegate {
     
     override func viewDidLoad() {
         serverField.delegate = self
+        onStart(self)
     }
     
     func textFieldShouldReturn(_ textField: UITextField) -> Bool {

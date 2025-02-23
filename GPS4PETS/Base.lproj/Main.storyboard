@@ -11,7 +11,7 @@
         <!--Main View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController storyboardIdentifier="MainViewController" modalPresentationStyle="currentContext" id="BYZ-38-t0r" customClass="MainViewController" customModule="TraccarManager" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="MainViewController" modalPresentationStyle="currentContext" id="BYZ-38-t0r" customClass="MainViewController" customModule="GPS4PETS" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
                         <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
@@ -30,7 +30,7 @@
         <!--Start View Controller-->
         <scene sceneID="whf-0X-3TE">
             <objects>
-                <viewController id="Q9M-Zf-myH" customClass="StartViewController" customModule="TraccarManager" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="Q9M-Zf-myH" customClass="StartViewController" customModule="GPS4PETS" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="UFS-Tw-BJG"/>
                         <viewControllerLayoutGuide type="bottom" id="bNZ-fd-5Ma"/>
@@ -49,7 +49,7 @@
                                             <action selector="onStart:" destination="Q9M-Zf-myH" eventType="touchUpInside" id="RiW-Jv-7UH"/>
                                         </connections>
                                     </button>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Traccar Manager" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4v6-sD-Gsd" userLabel="Title">
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="GPS4PETS" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4v6-sD-Gsd" userLabel="Title">
                                         <rect key="frame" x="86.5" y="32" width="202" height="33.5"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="28"/>
                                         <nil key="textColor"/>
